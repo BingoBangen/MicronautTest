@@ -1,0 +1,12 @@
+micronaut:
+  application:
+    name: demo
+netty:
+  default:
+    allocator:
+      max-order: 3
+
+
+dynamodb:
+  key: AKIA23DWV2JOW274C4OB
+  secret: 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
